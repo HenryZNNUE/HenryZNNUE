@@ -4,6 +4,10 @@
   <a href="https://git.io/streak-stats"><img style="height: 150px; width: 381px;" src="https://streak-stats.demolab.com?user=HenryZNNUE&theme=tokyonight&hide_border=true" alt="GitHub Streak" /></a>
 </p>
 
+[![Mohammad Saifur Rahman's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=HenryZNNUE&hide=html,scss,stylus,blade,jupyter%20notebook,python,css,shell,batchfile,dockerfile,typescript&theme=tokyonight&show_icons=true)](https://github.com/saifurrahman1193)
+
+![](https://komarev.com/ghpvc/?username=HenryZNNUE&color=blue)
+
 <!--
 **HenryZNNUE/HenryZNNUE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
