@@ -1,7 +1,9 @@
 ## Hi there, I'm Henry Z 👋
 <p float="left">
   <img style="height: 150px" src="https://github-readme-stats.vercel.app/api?username=HenryZNNUE&hide_border=true&show_icons=true&theme=tokyonight" />
-  <a href="https://git.io/streak-stats"><img style="height: 150px; width: 381px;" src="https://streak-stats.demolab.com?user=HenryZNNUE&theme=tokyonight&hide_border=true" alt="GitHub Streak" /></a>
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+  <img style="height: 150px; width: 381px"; src="https://github-readme-streak-stats-eight.vercel.app/?user=comus3&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</a>
   <img style="height: 150px" src="https://github-readme-stats.vercel.app/api/top-langs?username=HenryZNNUE&layout=compact&theme=tokyonight&hide_border=true&card_width=818" />
 </p>
 
